@@ -6,7 +6,30 @@
 
 **FemOvaAI** is an advanced AI-driven system designed to detect Polycystic Ovarian Syndrome (PCOS) from ultrasound images. Utilizing the power of YOLOv8, a cutting-edge object detection model, our system analyzes images to classify them into two categories: **"PCOS"** and **"No PCOS."**  This enables healthcare professionals to make informed decisions quickly, enhancing the diagnostic process and potentially improving patient outcomes.
 
-## How we built it ⚙️
+## 🚀 Getting Started  
+
+### Open Using Daytona  
+
+1. **Install Daytona**: Follow the [Daytona installation guide](https://www.daytona.io/docs/installation/installation/).  
+2. **Create the Workspace**:  
+   ```bash  
+   daytona create <SAMPLE_REPO_URL> 
+   ```  
+
+... MORE STEPS IF NEEDED ...
+
+4. **Start the Application**:  
+   ```bash  
+   command to start the app
+   ```  
+
+---
+
+## ✨ Features  
+
+List of sample features (e.g. realtime chat app, standardized development environment with devcontainers)
+
+## How I built it ⚙️
 
 We built **FemOvaAI** using the following steps:
 
@@ -77,27 +100,4 @@ Integration with Medical Systems: Integrating FemOvaAI with existing healthcare 
 
 By advancing FemOvaAI, we hope to make a lasting impact on women's health, providing a powerful tool for early detection and management of PCOS.
 
-Once you finish your sample and it gets merged, you can open a PR in the Daytona repo and submit the sample into the [index file](https://github.com/daytonaio/daytona/blob/main/hack/samples/index.json).
 
-## 🚀 Getting Started  
-
-### Open Using Daytona  
-
-1. **Install Daytona**: Follow the [Daytona installation guide](https://www.daytona.io/docs/installation/installation/).  
-2. **Create the Workspace**:  
-   ```bash  
-   daytona create <SAMPLE_REPO_URL> 
-   ```  
-
-... MORE STEPS IF NEEDED ...
-
-4. **Start the Application**:  
-   ```bash  
-   command to start the app
-   ```  
-
----
-
-## ✨ Features  
-
-List of sample features (e.g. realtime chat app, standardized development environment with devcontainers)
